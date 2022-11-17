@@ -1,6 +1,6 @@
-¿Lloverá?
+¿Lloverá? 
 
-Aplicación web que muestra si va a llover en las próximas 8 horas en la localización actual.
+Aplicación web que muestra si va a llover en los siguientes 5 días.
 
 Descripción
 ● La aplicación muestra una página inicial con el título y único
